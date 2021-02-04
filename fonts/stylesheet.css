@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('subset-Montserrat-Bold.eot');
+    src: url('subset-Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-Montserrat-Bold.woff2') format('woff2'),
+        url('subset-Montserrat-Bold.woff') format('woff'),
+        url('subset-Montserrat-Bold.ttf') format('truetype'),
+        url('subset-Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'COUTURE';
+    src: url('subset-COUTURE-Bold.eot');
+    src: url('subset-COUTURE-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-COUTURE-Bold.woff2') format('woff2'),
+        url('subset-COUTURE-Bold.woff') format('woff'),
+        url('subset-COUTURE-Bold.ttf') format('truetype'),
+        url('subset-COUTURE-Bold.svg#COUTURE-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    src: url('subset-PTSerif-Regular.eot');
+    src: url('subset-PTSerif-Regular.eot?#iefix') format('embedded-opentype'),
+        url('subset-PTSerif-Regular.woff2') format('woff2'),
+        url('subset-PTSerif-Regular.woff') format('woff'),
+        url('subset-PTSerif-Regular.ttf') format('truetype'),
+        url('subset-PTSerif-Regular.svg#PTSerif-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('subset-Montserrat-Regular.eot');
+    src: url('subset-Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('subset-Montserrat-Regular.woff2') format('woff2'),
+        url('subset-Montserrat-Regular.woff') format('woff'),
+        url('subset-Montserrat-Regular.ttf') format('truetype'),
+        url('subset-Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
